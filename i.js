@@ -3427,7 +3427,7 @@ o(),
     p && p.tick(e);
     requestAnimationFrame(t);
   }),
-  J("Follow us on our X & Telegram<br/><br/>x.com/AlfonsoXsol<br/><br/>t.me/AlfonsoXsol", () => {
+  J("Follow us on our X & Telegram<br/><br/>x.com/MAGOXSOL<br/><br/>t.me/MAGOXSOL", () => {
     var t = 1500;
     I.requestFullscreen
       ? I.requestFullscreen({ navigationUI: "hide" })
